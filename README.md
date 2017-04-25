@@ -1,6 +1,6 @@
 # npmdoc-react-native-simple-store
 
-#### api documentation for  [react-native-simple-store (v1.1.0)](https://github.com/jasonmerino/react-native-simple-store#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-simple-store.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-simple-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-simple-store.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-simple-store)
+#### basic api documentation for  [react-native-simple-store (v1.1.0)](https://github.com/jasonmerino/react-native-simple-store#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-simple-store.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-simple-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-simple-store.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-simple-store)
 
 #### A minimalistic wrapper around React Native's AsyncStorage.
 
@@ -85,7 +85,8 @@
         "preversion": "npm run dist -s ; npm run gen-docs -s",
         "test": "jest"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
